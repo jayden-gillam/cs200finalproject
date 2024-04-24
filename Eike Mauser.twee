@@ -23,12 +23,11 @@ The inevitable war has begun. Your division, just like most in the Wehrmacht, ha
 [[Bring the Jews in this town to the railroad outside camp. ->Decisions]]
 
 
-
 :: A sick feeling {"position":"925,825","size":"100,100"}
-The train ride home is quiet. Your soldiers reeling from all the killing they've done. You're not sure what to think. So many people slaughtered. So many that weren't part of the riot.
+The train ride home is quiet. Your soldiers reeling from all the killing they've done. You're not sure what to think. So many people slaughtered. So many that weren't part of the riot. An officer approaches you. "Oberstleutnant, the Fuhrer wants to meet with you personally." Perhaps this will be a good time to reveal to the Fuhrer that we got the wrong rioters.
 
 [[The Jews and Communists are not innocent regardless! ->Bad Ending]] 
-[[Next time we will be more vigilant. ->Berlin]] 
+[[Next time we will be more vigilant. ->Berlin]]
 
 
 :: A triumphant ride home {"position":"600,700","size":"100,100"}
@@ -41,7 +40,7 @@ Your troops are ecstatic, quoting your speech to various degrees of accuracy amo
 :: Bad Ending {"position":"700,825","size":"100,100"}
 You've fallen into the trap. Hitler's propaganda has tricked you into the same path so many other Germans took without a second thought. Hitler's wrath will still be inflicted against Europe, so many will die. And you will be proudly part of it.
 
-[[Heil Hitler! (You Lose) ->In The Morning]] 
+[[Heil Hitler! (You Lose) ->In The Morning]]
 
 
 :: Berlin {"position":"600,1100","size":"100,100"}
@@ -81,6 +80,24 @@ You troops moved out at 14:00 hours, as you ordered. You captured a farm, and an
 [[I hope this goes well... ->Himmler]]
 
 
+:: Death Ending {"position":"950,2200","size":"100,100"}
+Unfortunately, your fame has made you easily identifiable. You were too risky in Konigsberg, and were caught. You spent the rest of your days being worked to death in Dachau, where you died in October 1941.
+
+[[I could have died a hero... (You Lose) ->In The Morning]]
+
+
+:: Death Ending 2 {"position":"1225,2225","size":"100,100"}
+Your patience ended up being unaffordable. As you walk through the crowd several SS soldiers surround you and arrest you. You spend the rest of your days in Dachau, where you starve to death in October 1941.
+
+[[I was so close... (You Lose) ->In The Morning]]
+
+
+:: Death Ending 3 {"position":"575,2400","size":"100,100"}
+Eventually, it is discovered you aided in attempting to help the spy escape. You are arrested and executed by firing squad in July 1940.
+
+[[I was so close... (You Lose) ->In The Morning]]
+
+
 :: Decisions {"position":"825,1600","size":"100,100"}
 Thousands of civilians have been rounded up by your division. Your troops are standing by, not letting anyone out. "Generalleutnant!" Your captain approaches from behind you.
 "Generalleutnant, we believe we've found all of them. What are your orders?"
@@ -92,7 +109,8 @@ Thousands of civilians have been rounded up by your division. Your troops are st
 :: Escape {"position":"950,1800","size":"100,100"}
 Later, you take a truck and drive through the night, northeast towards Konigsberg. There you can try to escape.
 
-[[
+[[Try and get tickets for the morning ->The Vendor]]
+[[Lay low and try to stow away tomorrow ->In The Next Morning]]
 
 
 :: Go to the Ceremony {"position":"700,325","size":"100,100"}
@@ -108,6 +126,12 @@ You follow your orders. The train comes at night, and your division loads the Je
 [[There is nothing I can do... yet ->Patience Route]]
 
 
+:: Good Ending {"position":"825,2625","size":"100,100"}
+The convoy leaves later in the evening. The allies end up getting the codes, and Hitler's planned attack through the Ardennes is thwarted, leading to an early defeat in 1942. The war has been massively shortened thanks to you and the spy according to many historians, as they believe the vulnerability in the Ardennes was very real and could have led to a near total encirclement of allied armies in Northern France and Belgium. In 1944, you are tried at Nuremburg, along with other Nazi war criminals. Your case is extremely controversial, as many credit you with saving millions of lives. However, you are found guilty of commiting war crimes in Poland, and crimes against humanity in Germany proper. Your sentence is still lenient, as you are not to be executed, and instead will spend 8 years in prison. You are released after just 2, and spend the rest of your days living in New York as a Hero. 
+
+[[Was it all worth it? (You Win!) ->In The Morning]]
+
+
 :: Himmler {"position":"1525,2200","size":"100,100"}
 Sure enough, Herr Himmler's sleek, black Volkswagen arrives later in the day. Himmler and 3 stormtroopers exit the vehicle. He walks up to you.
 "Greetings, Generalleutnant." He says, coldly. "The train arrived as scheduled. Why did your division move on?"
@@ -115,8 +139,7 @@ Sure enough, Herr Himmler's sleek, black Volkswagen arrives later in the day. Hi
 "Do not take this as mercy, Generalleutnant. Be thankful that you are still viewed so fondly by the public. This is a warning, but you will recieve no such warnings if orders happen to slip your mind again." He storms off, without expecting a reply, back to his car, and just as soon as they came, they left. 
 
 [[There is nothing else I can do... ->Sad Ending]] 
-[[I think it's time for me to go... ->Escape]] 
-
+[[I think it's time for me to go... ->Escape]]
 
 
 :: Hitler. {"position":"600,1350","size":"100,100"}
@@ -132,19 +155,69 @@ You enter the Fuhrer's office. "Heil Hitler!" A standard greeting, as you extend
 
 
 :: In The Morning {"position":"575,200","size":"100,100"}
-Today is the day. Hitler's ShutzStaffel is to be formed later tonight. Oberstleutnant Mauser. It sounds good to you. You will be part of the Reich's future. Hitler's Germany. And you will be part of it with a smile on your face.
+Today is the day. Hitler's ShutzStaffel is to be formed later tonight. Oberstleutnant Mauser. It sounds good to you. You will be part of the Reich's future. Hitler's Germany. You did well in July, on that bloody night. Now, you will be rewarded.
 
 [[Go to the Ceremony]]
 
 
-:: Patience Route {"position":"700,1825","size":"100,100"}
+:: In The Next Morning {"position":"1100,2100","size":"100,100"}
+You decide to wait out the night. In the morning things are busy, crowds make it easier to sneak around. You reach the dock, and there is a Swedish vessel offloading its last few boxes of Iron. 
 
+[[Stow away... I need to leave ->The Captain]]
+[[I should keep looking... ->Death Ending 2]]
+
+
+:: Later that night {"position":"825,2500","size":"100,100"}
+Troops see you with the private. "Sir! What happened?!"
+"The spy went southeast. He killed poor Private Maul." You don't have to pretend to be sad. You knew Maul. He was just a kid serving his country. You didn't want to kill him. "Find him, now!"
+"Right away sir!" They rush away from the trucks. Later, you go back to the truck. The spy looks up at you.
+"I misreported your apperance. They won't be looking for you. Good luck." You say.
+"This is gonna do a lot of good. Thank you, truly, thank you." He replies.
+
+[[Good Ending]]
+
+
+:: Neutral Ending {"position":"1100,2350","size":"100,100"}
+You are granted assylum by the Swedish government. You spend the rest of your days in Sweden, and are horrified by what happened throughout the war. You spend many nights awake worried that you will be discovered, and ordered to Nuremberg for trial. It is not a good life in hiding.
+
+[[I could have done more... (You win?) ->In The Morning]]
+
+
+:: Patience Route {"position":"700,2000","size":"100,100"}
+Weeks have gone by. The Poles were soundly defeated. Your division ravaged through Poland, you followed orders to a tee. You have the full trust of high command. Your captain approaches you. "Sir, we believe we've captured a British Spy!"
+
+[[Bring me to him. ->The British Spy]]
+
+
+:: Private Maul {"position":"700,2250","size":"100,100"}
+You walk out of the building, and go to make sure the spy is safetly tucked away on one of the trucks, when a private calls out to you. "Generalleutnant! I found him!" The eager private holds his gun towards the inside of the truck and looks towards you. Shit. Time to act fast.
+
+[[Do nothing. I've failed. ->Death Ending 3]]
+[[Shoot Private Maul ->What Now?]]
 
 
 :: Sad Ending {"position":"100,1900","size":"100,100"}
 Fear. Fear has strangled the good out of you. Your willingness to do the right thing is second to your self preservation. You will stay in line, and perhaps you will be rewarded. You will not escape its grip.
 
-[[There is nothing I can do... (You Lose) ->In The Morning]] 
+[[There is nothing I can do... (You Lose) ->In The Morning]]
+
+
+:: The British Spy {"position":"700,2125","size":"100,100"}
+You are brought to the interrogation room door, and walked in. Inside are several guards. "Orders, sir?" Your captain asks.
+"Leave us. I will deal with this spy's treachary myself." Your troops smile and smirk thinking as to what you'll do to this spy.
+"Spy? I'm not a spy! What is this about?" He says in a perfect german accent.
+"Your skills are commendable, spy. But you will not need them here." You clearly surprised him, he tilts his head as if to ask what you mean. "There are trucks on the east side of this building. I will send one to Konigsberg tonight. Stow away, capture it, I don't care. Just bring this." You slap a book on the desk, the incryption key to Wehrmacht codes. 
+"What is this? Why are you helping me?" He asks.
+"I'll die before I see Hitler's flag fly over the world." You reply, grimly. He nods, understanding. You cut the rope binding his hands and pull out your mauser, he flinches, but you reassure him, firing two shots at the window. "Now go!" Your troops bust into the room, and you intentionally miss a shot as he climbs out the window.
+"Orders sir?!?"
+
+[[Secure the perimeter, I'll deal with him! ->Private Maul]]
+
+
+:: The Captain {"position":"1100,2225","size":"100,100"}
+A Swedish captain greets you in English. You manage to communicate to him that you are fleeing Nazi persecution. He understands and allows you to stow away, and the ship leaves shortly after. After a few hours, he and his men walk downstairs. "We have arrived. We will get a ride for you to immigration. You can get assylum there." Unbelievable, you've escaped!
+
+[[I made it... ->Neutral Ending]]
 
 
 :: The Chancellery {"position":"600,1225","size":"100,100"}
@@ -163,6 +236,15 @@ Your soldiers eagerly round up several civilians and bring them to you. Many of 
 [[Kill them all. ->Blood.]]
 
 
+:: The Vendor {"position":"850,2000","size":"100,100"}
+You approach the Vendor, hoping you aren't recognized. "A ticket to Sweden please" you say.
+The Vendor looks at you blankly. He then says. "Ja, allow me to call my supervisor."
+What will you do?
+
+[[I think I need to go, actually... ->In The Next Morning]]
+[[Sure, I'll wait ->Death Ending]]
+
+
 :: The Woman and Child {"position":"950,575","size":"100,100"}
 You walk into a smashed window, a building with smoke pluming out of it. Outside are several angry Aryans. You ask who did this. "The Jews smashed their own store and tried to blame it on us!" He points towards a woman and child, cowering behind a desk. God knows what happened to the father. 
 
@@ -174,7 +256,13 @@ You walk into a smashed window, a building with smoke pluming out of it. Outside
 His brow furrows, and his eyes become somehow even colder. "Careful, Generalleutnant. I would not be happy if my latest figurehead in this party was struggling to follow orders." He replies, clearly annoyed.
 
 [[He's right... I can't end up like them... ->Sad Ending]]
-[[Of course, Mein Fuhrer. Sieg Heil! ->5 Years Later]] 
+[[Of course, Mein Fuhrer. Sieg Heil! ->5 Years Later]]
+
+
+:: What Now? {"position":"825,2375","size":"100,100"}
+No going back now. You've truly betrayed the Reich this time.
+
+[[Drag the Private's body away ->Later that night]]
 
 
 :: Word against Word {"position":"1075,700","size":"100,100"}
