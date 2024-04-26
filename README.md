@@ -1,8 +1,8 @@
-# cs200finalproject
+# CS200 Final Project - Josh Williams and Jayden Gillam
 
 https://jayden-gillam.github.io/cs200finalproject/
 
-Our adventure game follows a Nazi Major General Mauser as he chooses his path and discovers his ethical framework (or dies trying). There are several different endings based on Mauser’s choices:
+**Our adventure game follows a Nazi Major General Mauser as he chooses his path and discovers his ethical framework (or dies trying). There are several different endings based on Mauser’s choices:**
 
 ### Bad Ending - The Common Good Approach
 The belief that things were all for a “greater good” was instrumental in Hitler’s machine. In this ending, you fail to evade the corruption Hitler’s propaganda brought to so many minds, and you fall in line happily, as did so many other Germans. Hitler’s ‘common good’ becomes yours with this tragic ending.
